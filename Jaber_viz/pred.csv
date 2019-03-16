@@ -1,0 +1,1715 @@
+,Prediction,Actual
+0,Healthy,Healthy
+1,Pure hypercholesterolemia,Pure hypercholesterolemia
+2,Healthy,Healthy
+3,Pure hypercholesterolemia,Pure hypercholesterolemia
+4,Prevent blood clots,Pure hypercholesterolemia
+5,Healthy,Healthy
+6,Pure hypercholesterolemia,Pure hypercholesterolemia
+7,Pure hypercholesterolemia,Healthy
+8,Healthy,Pure hypercholesterolemia
+9,Healthy,Healthy
+10,Healthy,Functional dyspepsia
+11,Healthy,Pure hypercholesterolemia
+12,Healthy,Healthy
+13,Healthy,Healthy
+14,Pure hypercholesterolemia,Healthy
+15,Healthy,Healthy
+16,Healthy,Healthy
+17,Healthy,Healthy
+18,Healthy,Healthy
+19,Pure hypercholesterolemia,Healthy
+20,Healthy,Healthy
+21,Healthy,Healthy
+22,Healthy,Healthy
+23,Pure hypercholesterolemia,Healthy
+24,Healthy,Healthy
+25,Pure hypercholesterolemia,Dorsalgia
+26,Pure hypercholesterolemia,Healthy
+27,Healthy,Healthy
+28,Healthy,Healthy
+29,Pure hypercholesterolemia,Prevent heart attack/myocardial infarction
+30,Healthy,Healthy
+31,Healthy,Healthy
+32,Healthy,Healthy
+33,Healthy,Healthy
+34,Healthy,Healthy
+35,Pure hypercholesterolemia,Pure hypercholesterolemia
+36,Healthy,Healthy
+37,Healthy,Healthy
+38,Healthy,Healthy
+39,Healthy,Healthy
+40,Healthy,Healthy
+41,Healthy,Neuralgia and neuritis
+42,Healthy,Healthy
+43,Healthy,Pure hypercholesterolemia
+44,Healthy,Healthy
+45,Healthy,Healthy
+46,Healthy,Dorsalgia
+47,Healthy,Healthy
+48,Healthy,Healthy
+49,Healthy,Healthy
+50,Healthy,Healthy
+51,Pure hypercholesterolemia,Hypothyroidism
+52,Pure hypercholesterolemia,Pure hypercholesterolemia
+53,Healthy,Dorsalgia
+54,Pure hypercholesterolemia,Healthy
+55,Healthy,Healthy
+56,Pure hypercholesterolemia,Healthy
+57,Pure hypercholesterolemia,Pure hypercholesterolemia
+58,Healthy,Healthy
+59,Healthy,Healthy
+60,Healthy,Healthy
+61,Healthy,Healthy
+62,Healthy,Healthy
+63,Healthy,Healthy
+64,Healthy,Healthy
+65,Healthy,Healthy
+66,Healthy,Healthy
+67,Healthy,Type 2 diabetes mellitus
+68,Healthy,Healthy
+69,Pure hypercholesterolemia,Type 2 diabetes mellitus
+70,Healthy,Healthy
+71,Healthy,Healthy
+72,Healthy,Pure hypercholesterolemia
+73,Pure hypercholesterolemia,Healthy
+74,Pure hypercholesterolemia,Pure hypercholesterolemia
+75,Healthy,Healthy
+76,Healthy,Healthy
+77,Pure hypercholesterolemia,Pure hypercholesterolemia
+78,Healthy,Healthy
+79,Healthy,Healthy
+80,Healthy,Healthy
+81,Healthy,Healthy
+82,Pure hypercholesterolemia,Pure hypercholesterolemia
+83,Healthy,Healthy
+84,Healthy,Pure hypercholesterolemia
+85,Healthy,Healthy
+86,Healthy,Pure hypercholesterolemia
+87,Healthy,Healthy
+88,Healthy,Pure hypercholesterolemia
+89,Healthy,Healthy
+90,Healthy,Hypokalemia
+91,Healthy,Healthy
+92,Healthy,Pure hypercholesterolemia
+93,Healthy,Functional dyspepsia
+94,Healthy,Pure hypercholesterolemia
+95,Pure hypercholesterolemia,Functional dyspepsia
+96,Healthy,Healthy
+97,Healthy,Healthy
+98,Pure hypercholesterolemia,Pure hypercholesterolemia
+99,Healthy,Healthy
+100,Healthy,Healthy
+101,Healthy,Healthy
+102,Healthy,Pure hypercholesterolemia
+103,Healthy,Healthy
+104,Hypokalemia,Pure hypercholesterolemia
+105,Healthy,Healthy
+106,Healthy,Healthy
+107,Healthy,Functional dyspepsia
+108,Healthy,Healthy
+109,Healthy,Healthy
+110,Healthy,Pure hypercholesterolemia
+111,Healthy,Healthy
+112,Healthy,Functional dyspepsia
+113,Healthy,Healthy
+114,Healthy,Pure hypercholesterolemia
+115,Healthy,Healthy
+116,Healthy,Healthy
+117,Healthy,Healthy
+118,Healthy,Healthy
+119,Healthy,Healthy
+120,Healthy,Healthy
+121,Healthy,Healthy
+122,Pure hypercholesterolemia,Pure hypercholesterolemia
+123,Healthy,Healthy
+124,Healthy,Healthy
+125,Healthy,Pure hypercholesterolemia
+126,Pure hypercholesterolemia,Healthy
+127,Healthy,Healthy
+128,Pure hypercholesterolemia,Pure hypercholesterolemia
+129,Healthy,Healthy
+130,Pure hypercholesterolemia,Hypothyroidism
+131,Healthy,Functional dyspepsia
+132,Healthy,Healthy
+133,Healthy,Healthy
+134,Healthy,Healthy
+135,Healthy,Healthy
+136,Pure hypercholesterolemia,Pure hypercholesterolemia
+137,Healthy,Healthy
+138,Healthy,Healthy
+139,Healthy,Healthy
+140,Healthy,Type 2 diabetes mellitus
+141,Healthy,Healthy
+142,Healthy,Healthy
+143,Healthy,Healthy
+144,Healthy,Healthy
+145,Healthy,Healthy
+146,Pure hypercholesterolemia,Prevent blood clots
+147,Healthy,Healthy
+148,Healthy,Healthy
+149,Healthy,Healthy
+150,Healthy,Healthy
+151,Healthy,Healthy
+152,Healthy,Healthy
+153,Healthy,Healthy
+154,Healthy,Healthy
+155,Healthy,Hypokalemia
+156,Healthy,Healthy
+157,Healthy,Healthy
+158,Healthy,Healthy
+159,Healthy,Healthy
+160,Healthy,Healthy
+161,Healthy,Healthy
+162,Healthy,Healthy
+163,Healthy,Functional dyspepsia
+164,Pure hypercholesterolemia,Pure hypercholesterolemia
+165,Healthy,Healthy
+166,Healthy,Healthy
+167,Healthy,Healthy
+168,Healthy,Healthy
+169,Healthy,Hypothyroidism
+170,Healthy,Pure hypercholesterolemia
+171,Pure hypercholesterolemia,Healthy
+172,Healthy,Type 2 diabetes mellitus
+173,Healthy,Healthy
+174,Healthy,Healthy
+175,Healthy,Healthy
+176,Healthy,Healthy
+177,Healthy,Hypothyroidism
+178,Pure hypercholesterolemia,Pure hypercholesterolemia
+179,Healthy,Type 2 diabetes mellitus
+180,Pure hypercholesterolemia,Pure hypercholesterolemia
+181,Healthy,Healthy
+182,Healthy,Healthy
+183,Healthy,Functional dyspepsia
+184,Healthy,Healthy
+185,Healthy,Healthy
+186,Healthy,Healthy
+187,Healthy,Healthy
+188,Pure hypercholesterolemia,Type 2 diabetes mellitus
+189,Healthy,Healthy
+190,Healthy,Healthy
+191,Healthy,Hypokalemia
+192,Healthy,Prevent heart attack/myocardial infarction
+193,Healthy,Healthy
+194,Pure hypercholesterolemia,Pure hypercholesterolemia
+195,Healthy,Healthy
+196,Pure hypercholesterolemia,Hypokalemia
+197,Healthy,Pure hypercholesterolemia
+198,Healthy,Healthy
+199,Healthy,Healthy
+200,Healthy,Pure hypercholesterolemia
+201,Healthy,Dorsalgia
+202,Healthy,Healthy
+203,Healthy,Pure hypercholesterolemia
+204,Healthy,Healthy
+205,Healthy,Healthy
+206,Healthy,Healthy
+207,Healthy,Healthy
+208,Healthy,Healthy
+209,Healthy,Chronic obstructive pulmonary disease
+210,Healthy,Type 2 diabetes mellitus
+211,Healthy,Chronic obstructive pulmonary disease
+212,Healthy,Healthy
+213,Healthy,Healthy
+214,Pure hypercholesterolemia,Pure hypercholesterolemia
+215,Healthy,Pure hypercholesterolemia
+216,Pure hypercholesterolemia,Healthy
+217,Healthy,Healthy
+218,Healthy,Healthy
+219,Heart failure,Healthy
+220,Healthy,Healthy
+221,Pure hypercholesterolemia,Healthy
+222,Healthy,Prevent blood clots
+223,Healthy,Healthy
+224,Healthy,Type 2 diabetes mellitus
+225,Healthy,Dorsalgia
+226,Healthy,Healthy
+227,Healthy,Hypothyroidism
+228,Healthy,Healthy
+229,Pure hypercholesterolemia,Prevent blood clots
+230,Healthy,Healthy
+231,Healthy,Healthy
+232,Healthy,Healthy
+233,Healthy,Pure hypercholesterolemia
+234,Healthy,Healthy
+235,Pure hypercholesterolemia,Pure hypercholesterolemia
+236,Healthy,Healthy
+237,Healthy,Healthy
+238,Healthy,Healthy
+239,Healthy,Healthy
+240,Healthy,Healthy
+241,Healthy,Dorsalgia
+242,Pure hypercholesterolemia,Pure hypercholesterolemia
+243,Healthy,Type 2 diabetes mellitus
+244,Pure hypercholesterolemia,Pure hypercholesterolemia
+245,Healthy,Pure hypercholesterolemia
+246,Healthy,Healthy
+247,Pure hypercholesterolemia,Dorsalgia
+248,Pure hypercholesterolemia,Pure hypercholesterolemia
+249,Healthy,Healthy
+250,Healthy,Pure hypercholesterolemia
+251,Healthy,Healthy
+252,Healthy,Pure hypercholesterolemia
+253,Healthy,Healthy
+254,Healthy,Healthy
+255,Healthy,Healthy
+256,Healthy,Healthy
+257,Healthy,Healthy
+258,Pure hypercholesterolemia,Healthy
+259,Healthy,Healthy
+260,Pure hypercholesterolemia,Healthy
+261,Pure hypercholesterolemia,Pure hypercholesterolemia
+262,Healthy,Healthy
+263,Healthy,Healthy
+264,Healthy,Healthy
+265,Healthy,Healthy
+266,Healthy,Healthy
+267,Healthy,Healthy
+268,Healthy,Healthy
+269,Healthy,Healthy
+270,Healthy,Healthy
+271,Healthy,Pure hypercholesterolemia
+272,Healthy,Healthy
+273,Healthy,Functional dyspepsia
+274,Healthy,Healthy
+275,Healthy,Healthy
+276,Healthy,Healthy
+277,Healthy,Pure hypercholesterolemia
+278,Healthy,Healthy
+279,Healthy,Healthy
+280,Healthy,Healthy
+281,Healthy,Healthy
+282,Healthy,Healthy
+283,Healthy,Healthy
+284,Healthy,Healthy
+285,Healthy,Type 2 diabetes mellitus
+286,Healthy,Healthy
+287,Healthy,Healthy
+288,Type 2 diabetes mellitus,Healthy
+289,Healthy,Dorsalgia
+290,Healthy,Healthy
+291,Healthy,Healthy
+292,Pure hypercholesterolemia,Pure hypercholesterolemia
+293,Healthy,Dorsalgia
+294,Healthy,Healthy
+295,Healthy,Healthy
+296,Healthy,Healthy
+297,Healthy,Healthy
+298,Healthy,Functional dyspepsia
+299,Healthy,Healthy
+300,Healthy,Healthy
+301,Healthy,Healthy
+302,Healthy,Healthy
+303,Healthy,Healthy
+304,Healthy,Type 2 diabetes mellitus
+305,Healthy,Healthy
+306,Pure hypercholesterolemia,Pure hypercholesterolemia
+307,Healthy,Healthy
+308,Healthy,Healthy
+309,Healthy,Healthy
+310,Pure hypercholesterolemia,Pure hypercholesterolemia
+311,Pure hypercholesterolemia,Hypokalemia
+312,Healthy,Healthy
+313,Healthy,Pure hypercholesterolemia
+314,Healthy,Healthy
+315,Healthy,Healthy
+316,Pure hypercholesterolemia,Healthy
+317,Healthy,Healthy
+318,Healthy,Type 2 diabetes mellitus
+319,Healthy,Healthy
+320,Healthy,Chronic obstructive pulmonary disease
+321,Healthy,Healthy
+322,Healthy,Healthy
+323,Healthy,Healthy
+324,Pure hypercholesterolemia,Glaucoma
+325,Pure hypercholesterolemia,Dorsalgia
+326,Healthy,Dorsalgia
+327,Healthy,Healthy
+328,Healthy,Healthy
+329,Healthy,Healthy
+330,Healthy,Healthy
+331,Healthy,Healthy
+332,Healthy,Healthy
+333,Healthy,Healthy
+334,Healthy,Type 2 diabetes mellitus
+335,Healthy,Functional dyspepsia
+336,Healthy,Healthy
+337,Pure hypercholesterolemia,Healthy
+338,Healthy,Healthy
+339,Pure hypercholesterolemia,Prevent blood clots
+340,Dorsalgia,Healthy
+341,Healthy,Healthy
+342,Pure hypercholesterolemia,Pure hypercholesterolemia
+343,Healthy,Healthy
+344,Pure hypercholesterolemia,Healthy
+345,Healthy,Healthy
+346,Healthy,Pure hypercholesterolemia
+347,Healthy,Healthy
+348,Healthy,Pure hypercholesterolemia
+349,Healthy,Healthy
+350,Healthy,Healthy
+351,Healthy,Healthy
+352,Healthy,Healthy
+353,Pure hypercholesterolemia,Pure hypercholesterolemia
+354,Healthy,Healthy
+355,Healthy,Healthy
+356,Healthy,Healthy
+357,Healthy,Prevent blood clots
+358,Healthy,Healthy
+359,Healthy,Healthy
+360,Healthy,Healthy
+361,Healthy,Healthy
+362,Healthy,Healthy
+363,Pure hypercholesterolemia,Healthy
+364,Healthy,Healthy
+365,Healthy,Healthy
+366,Healthy,Healthy
+367,Healthy,Healthy
+368,Healthy,Pure hypercholesterolemia
+369,Healthy,Healthy
+370,Healthy,Healthy
+371,Healthy,Healthy
+372,Healthy,Pure hypercholesterolemia
+373,Pure hypercholesterolemia,Pure hypercholesterolemia
+374,Healthy,Functional dyspepsia
+375,Healthy,Healthy
+376,Healthy,Healthy
+377,Healthy,Healthy
+378,Healthy,Healthy
+379,Healthy,Healthy
+380,Pure hypercholesterolemia,Prevent heart attack/myocardial infarction
+381,Healthy,Healthy
+382,Healthy,Dorsalgia
+383,Healthy,Healthy
+384,Healthy,Healthy
+385,Healthy,Hypokalemia
+386,Pure hypercholesterolemia,Pure hypercholesterolemia
+387,Healthy,Healthy
+388,Healthy,Healthy
+389,Healthy,Healthy
+390,Healthy,Healthy
+391,Healthy,Type 2 diabetes mellitus
+392,Healthy,Pure hypercholesterolemia
+393,Healthy,Healthy
+394,Healthy,Pure hypercholesterolemia
+395,Healthy,Functional dyspepsia
+396,Healthy,Healthy
+397,Healthy,Pure hypercholesterolemia
+398,Healthy,Type 2 diabetes mellitus
+399,Healthy,Healthy
+400,Healthy,Pure hypercholesterolemia
+401,Healthy,Neuralgia and neuritis
+402,Healthy,Type 2 diabetes mellitus
+403,Healthy,Healthy
+404,Healthy,Healthy
+405,Healthy,Healthy
+406,Healthy,Neuralgia and neuritis
+407,Healthy,Healthy
+408,Healthy,Type 2 diabetes mellitus
+409,Healthy,Healthy
+410,Healthy,Glaucoma
+411,Healthy,Healthy
+412,Pure hypercholesterolemia,Pure hypercholesterolemia
+413,Healthy,Type 2 diabetes mellitus
+414,Healthy,Healthy
+415,Pure hypercholesterolemia,Pure hypercholesterolemia
+416,Pure hypercholesterolemia,Pure hypercholesterolemia
+417,Healthy,Healthy
+418,Pure hypercholesterolemia,Pure hypercholesterolemia
+419,Healthy,Healthy
+420,Healthy,Healthy
+421,Healthy,Healthy
+422,Healthy,Functional dyspepsia
+423,Healthy,Healthy
+424,Pure hypercholesterolemia,Prevent blood clots
+425,Healthy,Hypothyroidism
+426,Healthy,Healthy
+427,Healthy,Healthy
+428,Healthy,Healthy
+429,Healthy,Healthy
+430,Pure hypercholesterolemia,Hypothyroidism
+431,Healthy,Healthy
+432,Healthy,Neuralgia and neuritis
+433,Healthy,Healthy
+434,Healthy,Healthy
+435,Healthy,Healthy
+436,Healthy,Healthy
+437,Healthy,Pure hypercholesterolemia
+438,Pure hypercholesterolemia,Pure hypercholesterolemia
+439,Healthy,Healthy
+440,Healthy,Healthy
+441,Healthy,Hypothyroidism
+442,Healthy,Healthy
+443,Healthy,Healthy
+444,Pure hypercholesterolemia,Glaucoma
+445,Healthy,Healthy
+446,Healthy,Type 2 diabetes mellitus
+447,Healthy,Healthy
+448,Healthy,Healthy
+449,Pure hypercholesterolemia,Pure hypercholesterolemia
+450,Pure hypercholesterolemia,Prevent blood clots
+451,Healthy,Healthy
+452,Healthy,Healthy
+453,Pure hypercholesterolemia,Healthy
+454,Healthy,Pure hypercholesterolemia
+455,Healthy,Healthy
+456,Pure hypercholesterolemia,Healthy
+457,Healthy,Hypothyroidism
+458,Healthy,Hypothyroidism
+459,Healthy,Healthy
+460,Healthy,Pure hypercholesterolemia
+461,Pure hypercholesterolemia,Hypokalemia
+462,Healthy,Healthy
+463,Healthy,Healthy
+464,Healthy,Pure hypercholesterolemia
+465,Healthy,Pure hypercholesterolemia
+466,Healthy,Healthy
+467,Pure hypercholesterolemia,Hypokalemia
+468,Healthy,Healthy
+469,Healthy,Healthy
+470,Pure hypercholesterolemia,Functional dyspepsia
+471,Healthy,Dorsalgia
+472,Healthy,Healthy
+473,Healthy,Type 2 diabetes mellitus
+474,Healthy,Healthy
+475,Healthy,Pure hypercholesterolemia
+476,Healthy,Healthy
+477,Healthy,Healthy
+478,Pure hypercholesterolemia,Healthy
+479,Healthy,Healthy
+480,Healthy,Pure hypercholesterolemia
+481,Healthy,Functional dyspepsia
+482,Healthy,Neuralgia and neuritis
+483,Healthy,Healthy
+484,Healthy,Healthy
+485,Healthy,Healthy
+486,Pure hypercholesterolemia,Pure hypercholesterolemia
+487,Healthy,Healthy
+488,Healthy,Healthy
+489,Healthy,Healthy
+490,Healthy,Healthy
+491,Healthy,Healthy
+492,Healthy,Type 2 diabetes mellitus
+493,Healthy,Healthy
+494,Healthy,Healthy
+495,Healthy,Healthy
+496,Healthy,Healthy
+497,Healthy,Healthy
+498,Healthy,Type 2 diabetes mellitus
+499,Healthy,Healthy
+500,Healthy,Healthy
+501,Pure hypercholesterolemia,Healthy
+502,Healthy,Functional dyspepsia
+503,Healthy,Healthy
+504,Healthy,Type 2 diabetes mellitus
+505,Healthy,Healthy
+506,Healthy,Pure hypercholesterolemia
+507,Healthy,Healthy
+508,Healthy,Healthy
+509,Pure hypercholesterolemia,Functional dyspepsia
+510,Healthy,Healthy
+511,Pure hypercholesterolemia,Healthy
+512,Healthy,Healthy
+513,Pure hypercholesterolemia,Pure hypercholesterolemia
+514,Healthy,Healthy
+515,Healthy,Healthy
+516,Healthy,Healthy
+517,Healthy,Healthy
+518,Healthy,Healthy
+519,Healthy,Dorsalgia
+520,Healthy,Healthy
+521,Healthy,Healthy
+522,Healthy,Healthy
+523,Healthy,Healthy
+524,Healthy,Healthy
+525,Healthy,Healthy
+526,Pure hypercholesterolemia,Hypokalemia
+527,Healthy,Type 2 diabetes mellitus
+528,Pure hypercholesterolemia,Pure hypercholesterolemia
+529,Healthy,Healthy
+530,Healthy,Healthy
+531,Healthy,Healthy
+532,Healthy,Healthy
+533,Healthy,Healthy
+534,Pure hypercholesterolemia,Hypothyroidism
+535,Healthy,Pure hypercholesterolemia
+536,Healthy,Healthy
+537,Pure hypercholesterolemia,Prevent heart attack/myocardial infarction
+538,Healthy,Pure hypercholesterolemia
+539,Healthy,Pure hypercholesterolemia
+540,Healthy,Healthy
+541,Healthy,Healthy
+542,Healthy,Pure hypercholesterolemia
+543,Healthy,Healthy
+544,Healthy,Healthy
+545,Healthy,Healthy
+546,Healthy,Pure hypercholesterolemia
+547,Healthy,Healthy
+548,Pure hypercholesterolemia,Hypokalemia
+549,Healthy,Healthy
+550,Healthy,Healthy
+551,Healthy,Healthy
+552,Healthy,Healthy
+553,Healthy,Healthy
+554,Healthy,Healthy
+555,Healthy,Type 2 diabetes mellitus
+556,Healthy,Healthy
+557,Healthy,Healthy
+558,Pure hypercholesterolemia,Pure hypercholesterolemia
+559,Healthy,Healthy
+560,Pure hypercholesterolemia,Pure hypercholesterolemia
+561,Healthy,Healthy
+562,Healthy,Neuralgia and neuritis
+563,Healthy,Healthy
+564,Healthy,Healthy
+565,Healthy,Healthy
+566,Healthy,Healthy
+567,Healthy,Pure hypercholesterolemia
+568,Healthy,Healthy
+569,Healthy,Healthy
+570,Healthy,Healthy
+571,Healthy,Healthy
+572,Healthy,Healthy
+573,Healthy,Healthy
+574,Healthy,Healthy
+575,Pure hypercholesterolemia,Healthy
+576,Healthy,Functional dyspepsia
+577,Healthy,Healthy
+578,Healthy,Healthy
+579,Healthy,Healthy
+580,Healthy,Healthy
+581,Pure hypercholesterolemia,Neuralgia and neuritis
+582,Healthy,Healthy
+583,Healthy,Healthy
+584,Healthy,Healthy
+585,Pure hypercholesterolemia,Prevent heart attack/myocardial infarction
+586,Healthy,Healthy
+587,Pure hypercholesterolemia,Hypokalemia
+588,Healthy,Healthy
+589,Pure hypercholesterolemia,Healthy
+590,Healthy,Healthy
+591,Healthy,Healthy
+592,Healthy,Functional dyspepsia
+593,Healthy,Healthy
+594,Healthy,Healthy
+595,Healthy,Healthy
+596,Healthy,Healthy
+597,Healthy,Healthy
+598,Healthy,Healthy
+599,Healthy,Healthy
+600,Healthy,Healthy
+601,Healthy,Healthy
+602,Healthy,Healthy
+603,Healthy,Healthy
+604,Pure hypercholesterolemia,Type 2 diabetes mellitus
+605,Healthy,Pure hypercholesterolemia
+606,Healthy,Dorsalgia
+607,Healthy,Healthy
+608,Healthy,Healthy
+609,Healthy,Pure hypercholesterolemia
+610,Healthy,Healthy
+611,Healthy,Healthy
+612,Healthy,Healthy
+613,Type 2 diabetes mellitus,Healthy
+614,Healthy,Prevent blood clots
+615,Healthy,Healthy
+616,Healthy,Healthy
+617,Pure hypercholesterolemia,Hypokalemia
+618,Healthy,Hypothyroidism
+619,Healthy,Pure hypercholesterolemia
+620,Healthy,Type 2 diabetes mellitus
+621,Pure hypercholesterolemia,Healthy
+622,Healthy,Healthy
+623,Healthy,Type 2 diabetes mellitus
+624,Healthy,Healthy
+625,Healthy,Healthy
+626,Healthy,Healthy
+627,Healthy,Hypothyroidism
+628,Healthy,Healthy
+629,Pure hypercholesterolemia,Healthy
+630,Healthy,Healthy
+631,Healthy,Healthy
+632,Healthy,Healthy
+633,Healthy,Healthy
+634,Healthy,Healthy
+635,Healthy,Healthy
+636,Healthy,Neuralgia and neuritis
+637,Hypothyroidism,Prevent blood clots
+638,Healthy,Healthy
+639,Healthy,Pure hypercholesterolemia
+640,Pure hypercholesterolemia,Healthy
+641,Healthy,Healthy
+642,Healthy,Healthy
+643,Healthy,Healthy
+644,Healthy,Healthy
+645,Healthy,Pure hypercholesterolemia
+646,Healthy,Pure hypercholesterolemia
+647,Healthy,Healthy
+648,Healthy,Healthy
+649,Healthy,Healthy
+650,Healthy,Healthy
+651,Healthy,Healthy
+652,Healthy,Healthy
+653,Healthy,Functional dyspepsia
+654,Healthy,Pure hypercholesterolemia
+655,Pure hypercholesterolemia,Pure hypercholesterolemia
+656,Healthy,Healthy
+657,Healthy,Healthy
+658,Healthy,Healthy
+659,Healthy,Healthy
+660,Healthy,Healthy
+661,Pure hypercholesterolemia,Functional dyspepsia
+662,Healthy,Healthy
+663,Healthy,Type 2 diabetes mellitus
+664,Healthy,Healthy
+665,Healthy,Healthy
+666,Healthy,Healthy
+667,Pure hypercholesterolemia,Pure hypercholesterolemia
+668,Healthy,Healthy
+669,Healthy,Healthy
+670,Healthy,Pure hypercholesterolemia
+671,Pure hypercholesterolemia,Healthy
+672,Healthy,Healthy
+673,Healthy,Healthy
+674,Pure hypercholesterolemia,Healthy
+675,Healthy,Healthy
+676,Healthy,Healthy
+677,Pure hypercholesterolemia,Functional dyspepsia
+678,Healthy,Healthy
+679,Healthy,Healthy
+680,Healthy,Healthy
+681,Pure hypercholesterolemia,Pure hypercholesterolemia
+682,Healthy,Neuralgia and neuritis
+683,Healthy,Healthy
+684,Healthy,Healthy
+685,Healthy,Healthy
+686,Healthy,Healthy
+687,Healthy,Healthy
+688,Healthy,Healthy
+689,Functional dyspepsia,Pure hypercholesterolemia
+690,Healthy,Healthy
+691,Healthy,Pure hypercholesterolemia
+692,Healthy,Healthy
+693,Healthy,Healthy
+694,Pure hypercholesterolemia,Chronic obstructive pulmonary disease
+695,Healthy,Healthy
+696,Pure hypercholesterolemia,Healthy
+697,Healthy,Healthy
+698,Healthy,Healthy
+699,Healthy,Dorsalgia
+700,Healthy,Healthy
+701,Healthy,Healthy
+702,Healthy,Functional dyspepsia
+703,Healthy,Healthy
+704,Healthy,Healthy
+705,Healthy,Pure hypercholesterolemia
+706,Healthy,Healthy
+707,Healthy,Healthy
+708,Healthy,Healthy
+709,Healthy,Healthy
+710,Healthy,Healthy
+711,Pure hypercholesterolemia,Pure hypercholesterolemia
+712,Healthy,Healthy
+713,Healthy,Healthy
+714,Healthy,Healthy
+715,Healthy,Healthy
+716,Healthy,Healthy
+717,Healthy,Functional dyspepsia
+718,Healthy,Healthy
+719,Healthy,Healthy
+720,Pure hypercholesterolemia,Pure hypercholesterolemia
+721,Healthy,Healthy
+722,Healthy,Healthy
+723,Healthy,Heart failure
+724,Healthy,Pure hypercholesterolemia
+725,Healthy,Healthy
+726,Healthy,Prevent blood clots
+727,Healthy,Healthy
+728,Healthy,Pure hypercholesterolemia
+729,Healthy,Pure hypercholesterolemia
+730,Healthy,Hypothyroidism
+731,Healthy,Healthy
+732,Healthy,Healthy
+733,Pure hypercholesterolemia,Dorsalgia
+734,Healthy,Healthy
+735,Healthy,Healthy
+736,Healthy,Healthy
+737,Healthy,Healthy
+738,Pure hypercholesterolemia,Pure hypercholesterolemia
+739,Healthy,Healthy
+740,Pure hypercholesterolemia,Pure hypercholesterolemia
+741,Pure hypercholesterolemia,Glaucoma
+742,Healthy,Hypothyroidism
+743,Healthy,Healthy
+744,Healthy,Healthy
+745,Pure hypercholesterolemia,Pure hypercholesterolemia
+746,Pure hypercholesterolemia,Healthy
+747,Healthy,Healthy
+748,Healthy,Healthy
+749,Healthy,Pure hypercholesterolemia
+750,Healthy,Healthy
+751,Healthy,Healthy
+752,Healthy,Healthy
+753,Healthy,Healthy
+754,Healthy,Healthy
+755,Healthy,Dorsalgia
+756,Healthy,Healthy
+757,Healthy,Healthy
+758,Healthy,Healthy
+759,Pure hypercholesterolemia,Heart failure
+760,Healthy,Pure hypercholesterolemia
+761,Healthy,Pure hypercholesterolemia
+762,Healthy,Healthy
+763,Pure hypercholesterolemia,Healthy
+764,Healthy,Healthy
+765,Healthy,Healthy
+766,Healthy,Pure hypercholesterolemia
+767,Pure hypercholesterolemia,Pure hypercholesterolemia
+768,Healthy,Healthy
+769,Healthy,Healthy
+770,Pure hypercholesterolemia,Healthy
+771,Healthy,Healthy
+772,Healthy,Healthy
+773,Healthy,Healthy
+774,Healthy,Healthy
+775,Healthy,Healthy
+776,Healthy,Healthy
+777,Healthy,Healthy
+778,Healthy,Pure hypercholesterolemia
+779,Healthy,Healthy
+780,Healthy,Healthy
+781,Healthy,Hypothyroidism
+782,Healthy,Healthy
+783,Pure hypercholesterolemia,Healthy
+784,Pure hypercholesterolemia,Pure hypercholesterolemia
+785,Healthy,Type 2 diabetes mellitus
+786,Healthy,Healthy
+787,Healthy,Healthy
+788,Healthy,Healthy
+789,Pure hypercholesterolemia,Pure hypercholesterolemia
+790,Healthy,Healthy
+791,Pure hypercholesterolemia,Hypothyroidism
+792,Healthy,Healthy
+793,Pure hypercholesterolemia,Pure hypercholesterolemia
+794,Healthy,Healthy
+795,Healthy,Healthy
+796,Healthy,Functional dyspepsia
+797,Healthy,Healthy
+798,Healthy,Healthy
+799,Healthy,Healthy
+800,Healthy,Healthy
+801,Healthy,Healthy
+802,Healthy,Healthy
+803,Healthy,Pure hypercholesterolemia
+804,Healthy,Healthy
+805,Healthy,Healthy
+806,Pure hypercholesterolemia,Pure hypercholesterolemia
+807,Healthy,Healthy
+808,Healthy,Dorsalgia
+809,Healthy,Healthy
+810,Healthy,Healthy
+811,Healthy,Healthy
+812,Healthy,Type 2 diabetes mellitus
+813,Pure hypercholesterolemia,Dorsalgia
+814,Healthy,Healthy
+815,Healthy,Healthy
+816,Pure hypercholesterolemia,Healthy
+817,Pure hypercholesterolemia,Healthy
+818,Healthy,Healthy
+819,Pure hypercholesterolemia,Chronic obstructive pulmonary disease
+820,Pure hypercholesterolemia,Pure hypercholesterolemia
+821,Healthy,Healthy
+822,Healthy,Healthy
+823,Healthy,Healthy
+824,Healthy,Healthy
+825,Healthy,Healthy
+826,Pure hypercholesterolemia,Pure hypercholesterolemia
+827,Healthy,Healthy
+828,Healthy,Healthy
+829,Healthy,Heart failure
+830,Healthy,Healthy
+831,Healthy,Healthy
+832,Healthy,Healthy
+833,Healthy,Healthy
+834,Healthy,Healthy
+835,Healthy,Healthy
+836,Healthy,Healthy
+837,Healthy,Healthy
+838,Healthy,Healthy
+839,Healthy,Healthy
+840,Healthy,Healthy
+841,Healthy,Pure hypercholesterolemia
+842,Healthy,Healthy
+843,Healthy,Pure hypercholesterolemia
+844,Healthy,Healthy
+845,Healthy,Healthy
+846,Healthy,Healthy
+847,Healthy,Healthy
+848,Healthy,Healthy
+849,Healthy,Healthy
+850,Pure hypercholesterolemia,Healthy
+851,Healthy,Healthy
+852,Healthy,Healthy
+853,Healthy,Healthy
+854,Healthy,Healthy
+855,Healthy,Prevent blood clots
+856,Pure hypercholesterolemia,Pure hypercholesterolemia
+857,Healthy,Healthy
+858,Healthy,Healthy
+859,Healthy,Healthy
+860,Healthy,Healthy
+861,Healthy,Healthy
+862,Healthy,Healthy
+863,Pure hypercholesterolemia,Healthy
+864,Healthy,Healthy
+865,Healthy,Healthy
+866,Healthy,Healthy
+867,Healthy,Healthy
+868,Healthy,Glaucoma
+869,Healthy,Healthy
+870,Healthy,Healthy
+871,Healthy,Healthy
+872,Healthy,Healthy
+873,Healthy,Healthy
+874,Healthy,Type 2 diabetes mellitus
+875,Pure hypercholesterolemia,Hypokalemia
+876,Healthy,Healthy
+877,Healthy,Healthy
+878,Healthy,Functional dyspepsia
+879,Healthy,Pure hypercholesterolemia
+880,Healthy,Type 2 diabetes mellitus
+881,Healthy,Healthy
+882,Pure hypercholesterolemia,Pure hypercholesterolemia
+883,Healthy,Healthy
+884,Healthy,Healthy
+885,Healthy,Healthy
+886,Healthy,Healthy
+887,Pure hypercholesterolemia,Heart failure
+888,Healthy,Healthy
+889,Healthy,Type 2 diabetes mellitus
+890,Healthy,Healthy
+891,Healthy,Healthy
+892,Healthy,Healthy
+893,Healthy,Hypothyroidism
+894,Healthy,Healthy
+895,Pure hypercholesterolemia,Pure hypercholesterolemia
+896,Healthy,Healthy
+897,Healthy,Healthy
+898,Healthy,Healthy
+899,Healthy,Healthy
+900,Heart failure,Type 2 diabetes mellitus
+901,Healthy,Healthy
+902,Healthy,Healthy
+903,Healthy,Healthy
+904,Healthy,Healthy
+905,Healthy,Healthy
+906,Healthy,Healthy
+907,Healthy,Hypothyroidism
+908,Pure hypercholesterolemia,Healthy
+909,Healthy,Healthy
+910,Healthy,Healthy
+911,Healthy,Healthy
+912,Healthy,Healthy
+913,Healthy,Healthy
+914,Healthy,Healthy
+915,Pure hypercholesterolemia,Type 2 diabetes mellitus
+916,Pure hypercholesterolemia,Heart failure
+917,Healthy,Hypothyroidism
+918,Healthy,Healthy
+919,Healthy,Healthy
+920,Healthy,Type 2 diabetes mellitus
+921,Healthy,Healthy
+922,Healthy,Healthy
+923,Healthy,Healthy
+924,Healthy,Healthy
+925,Healthy,Type 2 diabetes mellitus
+926,Healthy,Pure hypercholesterolemia
+927,Healthy,Hypothyroidism
+928,Healthy,Healthy
+929,Healthy,Healthy
+930,Healthy,Healthy
+931,Healthy,Healthy
+932,Healthy,Type 2 diabetes mellitus
+933,Healthy,Healthy
+934,Healthy,Healthy
+935,Healthy,Healthy
+936,Healthy,Dorsalgia
+937,Healthy,Healthy
+938,Healthy,Healthy
+939,Healthy,Healthy
+940,Healthy,Healthy
+941,Healthy,Healthy
+942,Healthy,Healthy
+943,Healthy,Healthy
+944,Healthy,Healthy
+945,Healthy,Healthy
+946,Healthy,Pure hypercholesterolemia
+947,Pure hypercholesterolemia,Pure hypercholesterolemia
+948,Pure hypercholesterolemia,Type 2 diabetes mellitus
+949,Healthy,Healthy
+950,Pure hypercholesterolemia,Pure hypercholesterolemia
+951,Pure hypercholesterolemia,Hypokalemia
+952,Healthy,Healthy
+953,Healthy,Healthy
+954,Healthy,Pure hypercholesterolemia
+955,Healthy,Healthy
+956,Healthy,Healthy
+957,Healthy,Healthy
+958,Pure hypercholesterolemia,Pure hypercholesterolemia
+959,Healthy,Healthy
+960,Healthy,Type 2 diabetes mellitus
+961,Healthy,Healthy
+962,Healthy,Pure hypercholesterolemia
+963,Healthy,Healthy
+964,Healthy,Healthy
+965,Healthy,Dorsalgia
+966,Healthy,Healthy
+967,Healthy,Healthy
+968,Healthy,Healthy
+969,Healthy,Healthy
+970,Healthy,Functional dyspepsia
+971,Pure hypercholesterolemia,Healthy
+972,Healthy,Healthy
+973,Healthy,Healthy
+974,Healthy,Type 2 diabetes mellitus
+975,Pure hypercholesterolemia,Prevent heart attack/myocardial infarction
+976,Healthy,Healthy
+977,Healthy,Dorsalgia
+978,Healthy,Healthy
+979,Healthy,Healthy
+980,Pure hypercholesterolemia,Glaucoma
+981,Healthy,Healthy
+982,Healthy,Healthy
+983,Healthy,Healthy
+984,Healthy,Healthy
+985,Healthy,Healthy
+986,Healthy,Healthy
+987,Healthy,Healthy
+988,Healthy,Healthy
+989,Healthy,Healthy
+990,Healthy,Healthy
+991,Healthy,Healthy
+992,Healthy,Hypothyroidism
+993,Healthy,Healthy
+994,Healthy,Functional dyspepsia
+995,Healthy,Healthy
+996,Healthy,Healthy
+997,Pure hypercholesterolemia,Type 2 diabetes mellitus
+998,Healthy,Healthy
+999,Healthy,Healthy
+1000,Healthy,Healthy
+1001,Healthy,Healthy
+1002,Healthy,Healthy
+1003,Healthy,Healthy
+1004,Healthy,Healthy
+1005,Pure hypercholesterolemia,Healthy
+1006,Pure hypercholesterolemia,Hypokalemia
+1007,Healthy,Healthy
+1008,Healthy,Hypothyroidism
+1009,Healthy,Hypothyroidism
+1010,Healthy,Prevent blood clots
+1011,Healthy,Pure hypercholesterolemia
+1012,Healthy,Healthy
+1013,Healthy,Healthy
+1014,Healthy,Functional dyspepsia
+1015,Pure hypercholesterolemia,Healthy
+1016,Healthy,Healthy
+1017,Healthy,Healthy
+1018,Pure hypercholesterolemia,Pure hypercholesterolemia
+1019,Healthy,Healthy
+1020,Healthy,Healthy
+1021,Healthy,Healthy
+1022,Healthy,Healthy
+1023,Healthy,Healthy
+1024,Healthy,Healthy
+1025,Pure hypercholesterolemia,Pure hypercholesterolemia
+1026,Healthy,Healthy
+1027,Healthy,Healthy
+1028,Healthy,Healthy
+1029,Healthy,Healthy
+1030,Healthy,Hypothyroidism
+1031,Healthy,Healthy
+1032,Healthy,Healthy
+1033,Healthy,Healthy
+1034,Healthy,Healthy
+1035,Pure hypercholesterolemia,Pure hypercholesterolemia
+1036,Pure hypercholesterolemia,Hypothyroidism
+1037,Pure hypercholesterolemia,Type 2 diabetes mellitus
+1038,Healthy,Healthy
+1039,Healthy,Healthy
+1040,Healthy,Healthy
+1041,Healthy,Healthy
+1042,Healthy,Healthy
+1043,Healthy,Pure hypercholesterolemia
+1044,Healthy,Type 2 diabetes mellitus
+1045,Healthy,Healthy
+1046,Healthy,Healthy
+1047,Healthy,Healthy
+1048,Type 2 diabetes mellitus,Functional dyspepsia
+1049,Healthy,Healthy
+1050,Healthy,Healthy
+1051,Healthy,Healthy
+1052,Healthy,Healthy
+1053,Healthy,Healthy
+1054,Healthy,Pure hypercholesterolemia
+1055,Healthy,Pure hypercholesterolemia
+1056,Healthy,Pure hypercholesterolemia
+1057,Pure hypercholesterolemia,Healthy
+1058,Healthy,Healthy
+1059,Pure hypercholesterolemia,Hypothyroidism
+1060,Healthy,Healthy
+1061,Healthy,Healthy
+1062,Healthy,Healthy
+1063,Pure hypercholesterolemia,Prevent blood clots
+1064,Healthy,Healthy
+1065,Pure hypercholesterolemia,Healthy
+1066,Healthy,Healthy
+1067,Healthy,Healthy
+1068,Healthy,Dorsalgia
+1069,Pure hypercholesterolemia,Prevent blood clots
+1070,Healthy,Healthy
+1071,Healthy,Healthy
+1072,Healthy,Healthy
+1073,Healthy,Healthy
+1074,Healthy,Healthy
+1075,Healthy,Healthy
+1076,Healthy,Healthy
+1077,Healthy,Healthy
+1078,Healthy,Healthy
+1079,Healthy,Healthy
+1080,Healthy,Healthy
+1081,Healthy,Healthy
+1082,Healthy,Healthy
+1083,Healthy,Healthy
+1084,Healthy,Healthy
+1085,Healthy,Healthy
+1086,Healthy,Healthy
+1087,Healthy,Healthy
+1088,Healthy,Healthy
+1089,Healthy,Healthy
+1090,Healthy,Functional dyspepsia
+1091,Healthy,Type 2 diabetes mellitus
+1092,Healthy,Healthy
+1093,Pure hypercholesterolemia,Pure hypercholesterolemia
+1094,Pure hypercholesterolemia,Hypokalemia
+1095,Healthy,Healthy
+1096,Healthy,Healthy
+1097,Pure hypercholesterolemia,Glaucoma
+1098,Healthy,Healthy
+1099,Healthy,Healthy
+1100,Healthy,Healthy
+1101,Healthy,Hypothyroidism
+1102,Pure hypercholesterolemia,Hypokalemia
+1103,Healthy,Healthy
+1104,Healthy,Healthy
+1105,Healthy,Healthy
+1106,Pure hypercholesterolemia,Healthy
+1107,Healthy,Healthy
+1108,Healthy,Healthy
+1109,Pure hypercholesterolemia,Pure hypercholesterolemia
+1110,Healthy,Healthy
+1111,Healthy,Healthy
+1112,Healthy,Healthy
+1113,Healthy,Healthy
+1114,Healthy,Healthy
+1115,Healthy,Healthy
+1116,Healthy,Healthy
+1117,Healthy,Healthy
+1118,Healthy,Healthy
+1119,Pure hypercholesterolemia,Pure hypercholesterolemia
+1120,Pure hypercholesterolemia,Healthy
+1121,Healthy,Healthy
+1122,Pure hypercholesterolemia,Type 2 diabetes mellitus
+1123,Healthy,Type 2 diabetes mellitus
+1124,Pure hypercholesterolemia,Pure hypercholesterolemia
+1125,Healthy,Healthy
+1126,Healthy,Healthy
+1127,Healthy,Dorsalgia
+1128,Healthy,Healthy
+1129,Healthy,Healthy
+1130,Healthy,Healthy
+1131,Healthy,Healthy
+1132,Healthy,Pure hypercholesterolemia
+1133,Healthy,Healthy
+1134,Healthy,Healthy
+1135,Healthy,Type 2 diabetes mellitus
+1136,Healthy,Type 2 diabetes mellitus
+1137,Healthy,Healthy
+1138,Healthy,Healthy
+1139,Healthy,Healthy
+1140,Healthy,Healthy
+1141,Healthy,Healthy
+1142,Pure hypercholesterolemia,Healthy
+1143,Healthy,Healthy
+1144,Healthy,Dorsalgia
+1145,Healthy,Healthy
+1146,Healthy,Neuralgia and neuritis
+1147,Healthy,Healthy
+1148,Pure hypercholesterolemia,Prevent blood clots
+1149,Healthy,Hypothyroidism
+1150,Healthy,Healthy
+1151,Healthy,Healthy
+1152,Healthy,Healthy
+1153,Healthy,Healthy
+1154,Healthy,Healthy
+1155,Healthy,Healthy
+1156,Healthy,Healthy
+1157,Healthy,Pure hypercholesterolemia
+1158,Healthy,Healthy
+1159,Healthy,Pure hypercholesterolemia
+1160,Healthy,Pure hypercholesterolemia
+1161,Healthy,Healthy
+1162,Healthy,Healthy
+1163,Pure hypercholesterolemia,Pure hypercholesterolemia
+1164,Healthy,Healthy
+1165,Healthy,Pure hypercholesterolemia
+1166,Healthy,Healthy
+1167,Healthy,Healthy
+1168,Healthy,Healthy
+1169,Prevent blood clots,Chronic obstructive pulmonary disease
+1170,Healthy,Healthy
+1171,Healthy,Pure hypercholesterolemia
+1172,Healthy,Healthy
+1173,Hypothyroidism,Chronic obstructive pulmonary disease
+1174,Healthy,Type 2 diabetes mellitus
+1175,Healthy,Pure hypercholesterolemia
+1176,Pure hypercholesterolemia,Chronic obstructive pulmonary disease
+1177,Healthy,Healthy
+1178,Pure hypercholesterolemia,Pure hypercholesterolemia
+1179,Healthy,Healthy
+1180,Healthy,Healthy
+1181,Healthy,Healthy
+1182,Healthy,Healthy
+1183,Healthy,Healthy
+1184,Healthy,Pure hypercholesterolemia
+1185,Healthy,Healthy
+1186,Healthy,Healthy
+1187,Healthy,Healthy
+1188,Pure hypercholesterolemia,Dorsalgia
+1189,Healthy,Healthy
+1190,Healthy,Healthy
+1191,Healthy,Healthy
+1192,Pure hypercholesterolemia,Pure hypercholesterolemia
+1193,Healthy,Pure hypercholesterolemia
+1194,Healthy,Type 2 diabetes mellitus
+1195,Healthy,Healthy
+1196,Healthy,Healthy
+1197,Healthy,Healthy
+1198,Healthy,Healthy
+1199,Healthy,Type 2 diabetes mellitus
+1200,Healthy,Healthy
+1201,Healthy,Prevent heart attack/myocardial infarction
+1202,Healthy,Healthy
+1203,Healthy,Type 2 diabetes mellitus
+1204,Pure hypercholesterolemia,Heart failure
+1205,Pure hypercholesterolemia,Pure hypercholesterolemia
+1206,Healthy,Healthy
+1207,Healthy,Healthy
+1208,Healthy,Pure hypercholesterolemia
+1209,Healthy,Healthy
+1210,Healthy,Functional dyspepsia
+1211,Healthy,Functional dyspepsia
+1212,Healthy,Healthy
+1213,Healthy,Pure hypercholesterolemia
+1214,Healthy,Healthy
+1215,Healthy,Pure hypercholesterolemia
+1216,Healthy,Pure hypercholesterolemia
+1217,Healthy,Healthy
+1218,Healthy,Healthy
+1219,Healthy,Dorsalgia
+1220,Healthy,Healthy
+1221,Healthy,Pure hypercholesterolemia
+1222,Healthy,Healthy
+1223,Healthy,Pure hypercholesterolemia
+1224,Healthy,Healthy
+1225,Healthy,Healthy
+1226,Healthy,Healthy
+1227,Healthy,Healthy
+1228,Pure hypercholesterolemia,Healthy
+1229,Healthy,Healthy
+1230,Healthy,Healthy
+1231,Healthy,Healthy
+1232,Pure hypercholesterolemia,Pure hypercholesterolemia
+1233,Healthy,Healthy
+1234,Healthy,Healthy
+1235,Healthy,Healthy
+1236,Healthy,Healthy
+1237,Healthy,Functional dyspepsia
+1238,Healthy,Healthy
+1239,Healthy,Pure hypercholesterolemia
+1240,Healthy,Healthy
+1241,Healthy,Healthy
+1242,Healthy,Healthy
+1243,Healthy,Healthy
+1244,Healthy,Healthy
+1245,Healthy,Type 2 diabetes mellitus
+1246,Healthy,Healthy
+1247,Healthy,Healthy
+1248,Healthy,Healthy
+1249,Healthy,Healthy
+1250,Healthy,Healthy
+1251,Healthy,Healthy
+1252,Pure hypercholesterolemia,Healthy
+1253,Healthy,Healthy
+1254,Healthy,Hypothyroidism
+1255,Healthy,Healthy
+1256,Healthy,Healthy
+1257,Healthy,Healthy
+1258,Healthy,Pure hypercholesterolemia
+1259,Healthy,Healthy
+1260,Healthy,Healthy
+1261,Pure hypercholesterolemia,Pure hypercholesterolemia
+1262,Healthy,Healthy
+1263,Healthy,Dorsalgia
+1264,Healthy,Healthy
+1265,Healthy,Healthy
+1266,Healthy,Pure hypercholesterolemia
+1267,Healthy,Pure hypercholesterolemia
+1268,Healthy,Healthy
+1269,Pure hypercholesterolemia,Healthy
+1270,Pure hypercholesterolemia,Pure hypercholesterolemia
+1271,Healthy,Healthy
+1272,Healthy,Healthy
+1273,Healthy,Healthy
+1274,Healthy,Pure hypercholesterolemia
+1275,Healthy,Healthy
+1276,Healthy,Healthy
+1277,Healthy,Healthy
+1278,Healthy,Healthy
+1279,Healthy,Healthy
+1280,Healthy,Healthy
+1281,Healthy,Dorsalgia
+1282,Pure hypercholesterolemia,Pure hypercholesterolemia
+1283,Healthy,Healthy
+1284,Healthy,Pure hypercholesterolemia
+1285,Healthy,Pure hypercholesterolemia
+1286,Healthy,Healthy
+1287,Healthy,Healthy
+1288,Healthy,Healthy
+1289,Healthy,Healthy
+1290,Healthy,Healthy
+1291,Healthy,Type 2 diabetes mellitus
+1292,Healthy,Healthy
+1293,Healthy,Healthy
+1294,Healthy,Healthy
+1295,Healthy,Healthy
+1296,Pure hypercholesterolemia,Prevent blood clots
+1297,Healthy,Dorsalgia
+1298,Healthy,Healthy
+1299,Healthy,Type 2 diabetes mellitus
+1300,Pure hypercholesterolemia,Pure hypercholesterolemia
+1301,Pure hypercholesterolemia,Healthy
+1302,Healthy,Healthy
+1303,Healthy,Prevent blood clots
+1304,Healthy,Healthy
+1305,Healthy,Healthy
+1306,Healthy,Healthy
+1307,Healthy,Healthy
+1308,Healthy,Type 2 diabetes mellitus
+1309,Healthy,Pure hypercholesterolemia
+1310,Pure hypercholesterolemia,Pure hypercholesterolemia
+1311,Healthy,Healthy
+1312,Healthy,Healthy
+1313,Healthy,Healthy
+1314,Healthy,Type 2 diabetes mellitus
+1315,Healthy,Healthy
+1316,Healthy,Healthy
+1317,Healthy,Healthy
+1318,Healthy,Healthy
+1319,Healthy,Healthy
+1320,Healthy,Prevent blood clots
+1321,Healthy,Healthy
+1322,Healthy,Healthy
+1323,Healthy,Pure hypercholesterolemia
+1324,Healthy,Healthy
+1325,Pure hypercholesterolemia,Pure hypercholesterolemia
+1326,Healthy,Healthy
+1327,Healthy,Healthy
+1328,Healthy,Healthy
+1329,Healthy,Healthy
+1330,Healthy,Pure hypercholesterolemia
+1331,Healthy,Healthy
+1332,Healthy,Functional dyspepsia
+1333,Healthy,Healthy
+1334,Healthy,Healthy
+1335,Healthy,Type 2 diabetes mellitus
+1336,Healthy,Pure hypercholesterolemia
+1337,Healthy,Type 2 diabetes mellitus
+1338,Healthy,Healthy
+1339,Healthy,Healthy
+1340,Healthy,Healthy
+1341,Healthy,Healthy
+1342,Healthy,Pure hypercholesterolemia
+1343,Pure hypercholesterolemia,Pure hypercholesterolemia
+1344,Healthy,Pure hypercholesterolemia
+1345,Healthy,Healthy
+1346,Healthy,Healthy
+1347,Healthy,Healthy
+1348,Pure hypercholesterolemia,Healthy
+1349,Healthy,Healthy
+1350,Healthy,Healthy
+1351,Healthy,Healthy
+1352,Healthy,Healthy
+1353,Healthy,Healthy
+1354,Healthy,Healthy
+1355,Healthy,Pure hypercholesterolemia
+1356,Healthy,Healthy
+1357,Pure hypercholesterolemia,Pure hypercholesterolemia
+1358,Healthy,Healthy
+1359,Pure hypercholesterolemia,Functional dyspepsia
+1360,Healthy,Healthy
+1361,Healthy,Healthy
+1362,Healthy,Healthy
+1363,Healthy,Hypothyroidism
+1364,Healthy,Healthy
+1365,Healthy,Pure hypercholesterolemia
+1366,Healthy,Healthy
+1367,Healthy,Pure hypercholesterolemia
+1368,Healthy,Healthy
+1369,Healthy,Neuralgia and neuritis
+1370,Healthy,Dorsalgia
+1371,Healthy,Healthy
+1372,Healthy,Healthy
+1373,Pure hypercholesterolemia,Pure hypercholesterolemia
+1374,Healthy,Healthy
+1375,Healthy,Healthy
+1376,Healthy,Healthy
+1377,Healthy,Healthy
+1378,Healthy,Healthy
+1379,Healthy,Pure hypercholesterolemia
+1380,Healthy,Type 2 diabetes mellitus
+1381,Healthy,Healthy
+1382,Healthy,Healthy
+1383,Healthy,Hypothyroidism
+1384,Type 2 diabetes mellitus,Dorsalgia
+1385,Healthy,Healthy
+1386,Pure hypercholesterolemia,Type 2 diabetes mellitus
+1387,Pure hypercholesterolemia,Healthy
+1388,Healthy,Healthy
+1389,Healthy,Healthy
+1390,Pure hypercholesterolemia,Pure hypercholesterolemia
+1391,Pure hypercholesterolemia,Pure hypercholesterolemia
+1392,Healthy,Pure hypercholesterolemia
+1393,Pure hypercholesterolemia,Healthy
+1394,Pure hypercholesterolemia,Hypokalemia
+1395,Pure hypercholesterolemia,Functional dyspepsia
+1396,Healthy,Healthy
+1397,Healthy,Healthy
+1398,Healthy,Healthy
+1399,Healthy,Healthy
+1400,Healthy,Healthy
+1401,Pure hypercholesterolemia,Pure hypercholesterolemia
+1402,Healthy,Healthy
+1403,Healthy,Healthy
+1404,Healthy,Healthy
+1405,Pure hypercholesterolemia,Healthy
+1406,Healthy,Healthy
+1407,Pure hypercholesterolemia,Healthy
+1408,Healthy,Healthy
+1409,Healthy,Healthy
+1410,Healthy,Pure hypercholesterolemia
+1411,Healthy,Healthy
+1412,Pure hypercholesterolemia,Heart failure
+1413,Healthy,Healthy
+1414,Healthy,Healthy
+1415,Pure hypercholesterolemia,Prevent blood clots
+1416,Healthy,Healthy
+1417,Healthy,Healthy
+1418,Healthy,Hypothyroidism
+1419,Healthy,Healthy
+1420,Healthy,Glaucoma
+1421,Healthy,Healthy
+1422,Healthy,Pure hypercholesterolemia
+1423,Healthy,Healthy
+1424,Healthy,Healthy
+1425,Healthy,Healthy
+1426,Healthy,Neuralgia and neuritis
+1427,Healthy,Healthy
+1428,Healthy,Healthy
+1429,Healthy,Healthy
+1430,Healthy,Healthy
+1431,Healthy,Hypothyroidism
+1432,Pure hypercholesterolemia,Prevent blood clots
+1433,Healthy,Healthy
+1434,Pure hypercholesterolemia,Pure hypercholesterolemia
+1435,Healthy,Healthy
+1436,Healthy,Healthy
+1437,Healthy,Healthy
+1438,Healthy,Healthy
+1439,Healthy,Healthy
+1440,Healthy,Healthy
+1441,Pure hypercholesterolemia,Pure hypercholesterolemia
+1442,Healthy,Healthy
+1443,Healthy,Healthy
+1444,Healthy,Healthy
+1445,Pure hypercholesterolemia,Healthy
+1446,Pure hypercholesterolemia,Pure hypercholesterolemia
+1447,Healthy,Healthy
+1448,Healthy,Healthy
+1449,Healthy,Glaucoma
+1450,Pure hypercholesterolemia,Pure hypercholesterolemia
+1451,Healthy,Healthy
+1452,Healthy,Healthy
+1453,Healthy,Healthy
+1454,Healthy,Pure hypercholesterolemia
+1455,Healthy,Healthy
+1456,Pure hypercholesterolemia,Healthy
+1457,Healthy,Healthy
+1458,Healthy,Healthy
+1459,Healthy,Healthy
+1460,Healthy,Healthy
+1461,Healthy,Healthy
+1462,Healthy,Healthy
+1463,Healthy,Healthy
+1464,Healthy,Healthy
+1465,Pure hypercholesterolemia,Hypothyroidism
+1466,Healthy,Healthy
+1467,Healthy,Healthy
+1468,Healthy,Healthy
+1469,Pure hypercholesterolemia,Heart failure
+1470,Healthy,Healthy
+1471,Healthy,Glaucoma
+1472,Healthy,Healthy
+1473,Healthy,Healthy
+1474,Healthy,Healthy
+1475,Pure hypercholesterolemia,Type 2 diabetes mellitus
+1476,Healthy,Healthy
+1477,Healthy,Hypothyroidism
+1478,Healthy,Healthy
+1479,Pure hypercholesterolemia,Type 2 diabetes mellitus
+1480,Healthy,Healthy
+1481,Pure hypercholesterolemia,Healthy
+1482,Healthy,Healthy
+1483,Healthy,Healthy
+1484,Healthy,Healthy
+1485,Healthy,Healthy
+1486,Healthy,Healthy
+1487,Healthy,Healthy
+1488,Healthy,Pure hypercholesterolemia
+1489,Healthy,Healthy
+1490,Healthy,Hypokalemia
+1491,Healthy,Prevent heart attack/myocardial infarction
+1492,Pure hypercholesterolemia,Hypokalemia
+1493,Healthy,Healthy
+1494,Healthy,Healthy
+1495,Healthy,Functional dyspepsia
+1496,Healthy,Healthy
+1497,Healthy,Healthy
+1498,Healthy,Healthy
+1499,Healthy,Healthy
+1500,Healthy,Healthy
+1501,Healthy,Healthy
+1502,Healthy,Neuralgia and neuritis
+1503,Healthy,Healthy
+1504,Pure hypercholesterolemia,Hypokalemia
+1505,Healthy,Heart failure
+1506,Healthy,Dorsalgia
+1507,Healthy,Healthy
+1508,Healthy,Pure hypercholesterolemia
+1509,Pure hypercholesterolemia,Healthy
+1510,Healthy,Hypothyroidism
+1511,Pure hypercholesterolemia,Pure hypercholesterolemia
+1512,Healthy,Healthy
+1513,Healthy,Healthy
+1514,Healthy,Healthy
+1515,Pure hypercholesterolemia,Type 2 diabetes mellitus
+1516,Healthy,Healthy
+1517,Healthy,Healthy
+1518,Healthy,Hypothyroidism
+1519,Healthy,Prevent blood clots
+1520,Healthy,Healthy
+1521,Pure hypercholesterolemia,Hypothyroidism
+1522,Healthy,Dorsalgia
+1523,Healthy,Healthy
+1524,Healthy,Healthy
+1525,Healthy,Healthy
+1526,Healthy,Healthy
+1527,Healthy,Healthy
+1528,Healthy,Type 2 diabetes mellitus
+1529,Healthy,Pure hypercholesterolemia
+1530,Healthy,Healthy
+1531,Healthy,Healthy
+1532,Healthy,Healthy
+1533,Healthy,Healthy
+1534,Healthy,Type 2 diabetes mellitus
+1535,Healthy,Pure hypercholesterolemia
+1536,Healthy,Healthy
+1537,Healthy,Type 2 diabetes mellitus
+1538,Healthy,Healthy
+1539,Pure hypercholesterolemia,Pure hypercholesterolemia
+1540,Healthy,Healthy
+1541,Healthy,Healthy
+1542,Healthy,Healthy
+1543,Healthy,Pure hypercholesterolemia
+1544,Healthy,Healthy
+1545,Pure hypercholesterolemia,Pure hypercholesterolemia
+1546,Healthy,Healthy
+1547,Healthy,Pure hypercholesterolemia
+1548,Healthy,Healthy
+1549,Healthy,Type 2 diabetes mellitus
+1550,Healthy,Healthy
+1551,Healthy,Healthy
+1552,Healthy,Healthy
+1553,Pure hypercholesterolemia,Healthy
+1554,Healthy,Pure hypercholesterolemia
+1555,Healthy,Healthy
+1556,Healthy,Hypothyroidism
+1557,Healthy,Pure hypercholesterolemia
+1558,Healthy,Healthy
+1559,Healthy,Hypothyroidism
+1560,Healthy,Healthy
+1561,Healthy,Healthy
+1562,Healthy,Healthy
+1563,Healthy,Pure hypercholesterolemia
+1564,Healthy,Hypothyroidism
+1565,Healthy,Healthy
+1566,Healthy,Healthy
+1567,Healthy,Healthy
+1568,Healthy,Healthy
+1569,Healthy,Healthy
+1570,Healthy,Healthy
+1571,Healthy,Type 2 diabetes mellitus
+1572,Healthy,Healthy
+1573,Healthy,Hypothyroidism
+1574,Healthy,Healthy
+1575,Healthy,Healthy
+1576,Healthy,Healthy
+1577,Healthy,Hypothyroidism
+1578,Healthy,Healthy
+1579,Healthy,Dorsalgia
+1580,Healthy,Healthy
+1581,Pure hypercholesterolemia,Dorsalgia
+1582,Healthy,Healthy
+1583,Pure hypercholesterolemia,Hypothyroidism
+1584,Pure hypercholesterolemia,Pure hypercholesterolemia
+1585,Healthy,Healthy
+1586,Healthy,Healthy
+1587,Healthy,Healthy
+1588,Healthy,Healthy
+1589,Healthy,Healthy
+1590,Healthy,Healthy
+1591,Healthy,Hypothyroidism
+1592,Healthy,Healthy
+1593,Pure hypercholesterolemia,Pure hypercholesterolemia
+1594,Healthy,Healthy
+1595,Healthy,Healthy
+1596,Healthy,Healthy
+1597,Pure hypercholesterolemia,Pure hypercholesterolemia
+1598,Healthy,Healthy
+1599,Pure hypercholesterolemia,Pure hypercholesterolemia
+1600,Pure hypercholesterolemia,Healthy
+1601,Healthy,Healthy
+1602,Healthy,Pure hypercholesterolemia
+1603,Healthy,Healthy
+1604,Healthy,Hypokalemia
+1605,Healthy,Healthy
+1606,Healthy,Healthy
+1607,Healthy,Healthy
+1608,Healthy,Healthy
+1609,Healthy,Healthy
+1610,Healthy,Healthy
+1611,Healthy,Healthy
+1612,Healthy,Healthy
+1613,Healthy,Healthy
+1614,Pure hypercholesterolemia,Healthy
+1615,Healthy,Hypothyroidism
+1616,Healthy,Type 2 diabetes mellitus
+1617,Healthy,Healthy
+1618,Healthy,Pure hypercholesterolemia
+1619,Healthy,Healthy
+1620,Healthy,Healthy
+1621,Healthy,Hypokalemia
+1622,Healthy,Functional dyspepsia
+1623,Pure hypercholesterolemia,Healthy
+1624,Healthy,Healthy
+1625,Healthy,Type 2 diabetes mellitus
+1626,Healthy,Healthy
+1627,Healthy,Healthy
+1628,Healthy,Healthy
+1629,Healthy,Healthy
+1630,Healthy,Healthy
+1631,Healthy,Healthy
+1632,Pure hypercholesterolemia,Type 2 diabetes mellitus
+1633,Healthy,Healthy
+1634,Healthy,Healthy
+1635,Healthy,Healthy
+1636,Pure hypercholesterolemia,Pure hypercholesterolemia
+1637,Pure hypercholesterolemia,Pure hypercholesterolemia
+1638,Healthy,Healthy
+1639,Healthy,Healthy
+1640,Healthy,Healthy
+1641,Healthy,Healthy
+1642,Pure hypercholesterolemia,Pure hypercholesterolemia
+1643,Healthy,Healthy
+1644,Healthy,Healthy
+1645,Healthy,Healthy
+1646,Pure hypercholesterolemia,Hypothyroidism
+1647,Healthy,Healthy
+1648,Pure hypercholesterolemia,Pure hypercholesterolemia
+1649,Pure hypercholesterolemia,Pure hypercholesterolemia
+1650,Healthy,Hypothyroidism
+1651,Healthy,Healthy
+1652,Healthy,Healthy
+1653,Healthy,Healthy
+1654,Pure hypercholesterolemia,Prevent blood clots
+1655,Healthy,Healthy
+1656,Healthy,Healthy
+1657,Healthy,Type 2 diabetes mellitus
+1658,Healthy,Type 2 diabetes mellitus
+1659,Healthy,Hypothyroidism
+1660,Pure hypercholesterolemia,Pure hypercholesterolemia
+1661,Healthy,Neuralgia and neuritis
+1662,Pure hypercholesterolemia,Pure hypercholesterolemia
+1663,Healthy,Healthy
+1664,Healthy,Healthy
+1665,Healthy,Hypothyroidism
+1666,Healthy,Healthy
+1667,Healthy,Healthy
+1668,Healthy,Healthy
+1669,Healthy,Pure hypercholesterolemia
+1670,Healthy,Pure hypercholesterolemia
+1671,Healthy,Healthy
+1672,Healthy,Healthy
+1673,Healthy,Healthy
+1674,Type 2 diabetes mellitus,Type 2 diabetes mellitus
+1675,Healthy,Healthy
+1676,Healthy,Healthy
+1677,Healthy,Dorsalgia
+1678,Healthy,Healthy
+1679,Healthy,Healthy
+1680,Pure hypercholesterolemia,Healthy
+1681,Healthy,Hypothyroidism
+1682,Healthy,Pure hypercholesterolemia
+1683,Healthy,Healthy
+1684,Healthy,Healthy
+1685,Healthy,Healthy
+1686,Healthy,Healthy
+1687,Pure hypercholesterolemia,Hypothyroidism
+1688,Healthy,Healthy
+1689,Healthy,Healthy
+1690,Healthy,Hypothyroidism
+1691,Healthy,Healthy
+1692,Healthy,Healthy
+1693,Healthy,Healthy
+1694,Healthy,Healthy
+1695,Healthy,Type 2 diabetes mellitus
+1696,Healthy,Healthy
+1697,Healthy,Healthy
+1698,Healthy,Healthy
+1699,Healthy,Healthy
+1700,Pure hypercholesterolemia,Type 2 diabetes mellitus
+1701,Pure hypercholesterolemia,Healthy
+1702,Healthy,Healthy
+1703,Healthy,Healthy
+1704,Healthy,Healthy
+1705,Healthy,Healthy
+1706,Healthy,Healthy
+1707,Healthy,Healthy
+1708,Healthy,Healthy
+1709,Healthy,Healthy
+1710,Healthy,Glaucoma
+1711,Healthy,Healthy
+1712,Healthy,Hypothyroidism
+1713,Healthy,Healthy

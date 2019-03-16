@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <title>Med App</title>
+    
+    <link rel="stylesheet" href="dc.css">
+</head>
+<body>
+
+    <h1>Viz for Condition vs Age vs Gender</h1>
+
+    <div id="conditionType">
+            <strong>Condition</strong>
+            <span class="reset" style="display: none;">Selected: <span class="filter"></span></span>
+            <a class="reset" href="javascript:conditionTypeChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+
+            <div class="clearfix"></div>
+
+    </div>
+    
+
+    <div id="ageType">
+
+            <strong>Age</strong>
+            <span class="reset" style="display: none;">Selected: <span class="filter"></span></span>
+            <a class="reset" href="javascript:ageTypeChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        
+            <div class="clearfix"></div>
+
+    </div>
+
+    <div id="genderType">
+            <strong>Gender</strong>
+            <span class="reset" style="display: none;">Selected: <span class="filter"></span></span>
+            <a class="reset" href="javascript:genderTypeChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        
+            <div class="clearfix"></div>
+
+
+
+    </div>
+
+    <!-- <div id="cholesterolType">
+            <strong>Cholesterol Type</strong>
+            <span class="reset" style="display: none;">Selected: <span class="filter"></span></span>
+            <a class="reset" href="javascript:cholesterolTypeChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        
+            <div class="clearfix"></div>
+
+
+
+    </div> -->
+    
+    <script src="crossfilter.js"></script>
+    <script src="d3.js"></script>
+    <script src="dc.js"></script>
+
+    <script>
+
+    var conditionTypeChart = dc.rowChart("#conditionType");
+    var ageTypeChart = dc.rowChart("#ageType");
+    var genderTypeChart = dc.rowChart("#genderType");
+    // var cholesterolTypeChart = dc.rowChart("#cholesterolType");
+
+        d3.csv("filter.csv", function (err, data){
+            if (err) throw err;
+
+            // console.log(data)
+
+            var ndx = crossfilter(data);
+            var all = ndx.groupAll();
+
+            var conditionTypeDim = ndx.dimension(function (d){return d["Condition"]; })
+            var ageTypeDim = ndx.dimension(function (d){return d["Age"]; })
+            var genderTypeDim = ndx.dimension(function (d){return d["Gender"]; })
+            // var cholesterolTypeDim = ndx.dimension(function (d){return d["Cholesterol (mg/dL)"]; })
+
+            var conditionTypeGroup = conditionTypeDim.group();
+            var ageTypeGroup = ageTypeDim.group();
+            var genderTypeGroup = genderTypeDim.group();
+            // var cholesterolTypeGroup = cholesterolTypeDim.group();
+
+            conditionTypeChart
+                .height(500)
+                .dimension(conditionTypeDim)
+                .group(conditionTypeGroup)
+                .elasticX(true)
+                .data(function (group) { return group.top(5);});
+
+            ageTypeChart
+                .height(500)
+                .dimension(ageTypeDim)
+                .group(ageTypeGroup)
+                .elasticX(true)
+                .data(function (group) { return group.top(10);});
+
+            genderTypeChart
+                .height(500)
+                .dimension(genderTypeDim)
+                .group(genderTypeGroup)
+                .elasticX(true)
+                // .data(function (group) { return group.top(10);});
+
+            // cholesterolTypeChart
+            //     .height(200)
+            //     .dimension(cholesterolTypeDim)
+            //     .group(holesterolTypeGroup)
+            //     .elasticX(true)
+            //     .data(function (group) { return group.top(10);})
+                
+            
+
+            
+                
+
+            dc.renderAll();
+        });
+    
+    </script>
+</body>
+</html>
+
+
+

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <title>Med App</title>
+    
+    <link rel="stylesheet" href="dc.css">
+</head>
+<body>
+
+    <h1>Prediction vs Actual</h1>
+
+    <div id="predictionType">
+            <strong>Prediction</strong>
+            <span class="reset" style="display: none;">Selected: <span class="filter"></span></span>
+            <a class="reset" href="javascript:predictionTypeChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+
+            <div class="clearfix"></div>
+
+    </div>
+    
+
+    <div id="actualType">
+
+            <strong>Actual</strong>
+            <span class="reset" style="display: none;">Selected: <span class="filter"></span></span>
+            <a class="reset" href="javascript:actualTypeChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        
+            <div class="clearfix"></div>
+
+    </div>
+<!-- 
+    <div id="genderType">
+            <strong>Gender</strong>
+            <span class="reset" style="display: none;">Selected: <span class="filter"></span></span>
+            <a class="reset" href="javascript:genderTypeChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        
+            <div class="clearfix"></div>
+
+
+
+    </div> -->
+
+    <!-- <div id="cholesterolType">
+            <strong>Cholesterol Type</strong>
+            <span class="reset" style="display: none;">Selected: <span class="filter"></span></span>
+            <a class="reset" href="javascript:cholesterolTypeChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        
+            <div class="clearfix"></div>
+
+
+
+    </div> -->
+    
+    <script src="crossfilter.js"></script>
+    <script src="d3.js"></script>
+    <script src="dc.js"></script>
+
+    <script>
+
+    var predictionTypeChart = dc.rowChart("#predictionType");
+    var actualTypeChart = dc.rowChart("#actualType");
+    // var genderTypeChart = dc.rowChart("#genderType");
+    // var cholesterolTypeChart = dc.rowChart("#cholesterolType");
+
+        d3.csv("pred.csv", function (err, data){
+            if (err) throw err;
+
+            // console.log(data)
+
+            var ndx = crossfilter(data);
+            var all = ndx.groupAll();
+
+            var predictionTypeDim = ndx.dimension(function (d){return d["Prediction"]; })
+            var actualTypeDim = ndx.dimension(function (d){return d["Actual"]; })
+            // var genderTypeDim = ndx.dimension(function (d){return d["Gender"]; })
+            // var cholesterolTypeDim = ndx.dimension(function (d){return d["Cholesterol (mg/dL)"]; })
+
+            var predictionTypeGroup = predictionTypeDim.group();
+            var actualTypeGroup = actualTypeDim.group();
+            // var genderTypeGroup = genderTypeDim.group();
+            // var cholesterolTypeGroup = cholesterolTypeDim.group();
+
+            predictionTypeChart
+                .height(500)
+                .dimension(predictionTypeDim)
+                .group(predictionTypeGroup)
+                .elasticX(true)
+                .data(function (group) { return group.top(3);});
+
+            actualTypeChart
+                .height(500)
+                .dimension(actualTypeDim)
+                .group(actualTypeGroup)
+                .elasticX(true)
+                .data(function (group) { return group.top(3);});
+
+            // genderTypeChart
+            //     .height(500)
+            //     .dimension(genderTypeDim)
+            //     .group(genderTypeGroup)
+            //     .elasticX(true)
+                // .data(function (group) { return group.top(10);});
+
+            // cholesterolTypeChart
+            //     .height(200)
+            //     .dimension(cholesterolTypeDim)
+            //     .group(holesterolTypeGroup)
+            //     .elasticX(true)
+            //     .data(function (group) { return group.top(10);})
+                
+            
+
+            
+                
+
+            dc.renderAll();
+        });
+    
+    </script>
+</body>
+</html>
+
+
+
