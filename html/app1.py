@@ -132,6 +132,7 @@ def get_post_javascript_data(request):
 
 @app.route('/result', methods =['POST'])
 def result():
+    predicts = []
     if request.method =='POST':
         result = request.form
         vals = []
@@ -146,8 +147,15 @@ def result():
         # vals.append(1)
         val_array = np.array([vals])
         prediction = model.predict(val_array)
-        print(prediction)
-        return jsonify(result)
+        new_predict = str(prediction)
+        new_array = np.append(val_array, prediction)
+        predicts.append({"PREDICTION": new_predict})
+        
+
+    print(predicts)
+    return jsonify(predicts)
+    
+ 
 
 
 
